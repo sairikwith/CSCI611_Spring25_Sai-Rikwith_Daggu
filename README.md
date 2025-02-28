@@ -1,4 +1,3 @@
-```markdown
 # CSCI611 Assignment 2 - Image Filtering & CNN Implementation
 
 ## Overview
@@ -78,5 +77,4 @@ pip install numpy tensorflow matplotlib jupyter opencv-python pandas
 ## 📚 Course Details
 - **Course:** CSCI611  
 - **Semester:** Spring 2025  
-- **Instructor:** Dr. Bo Shen  
-```
+- **Instructor:** Dr. Bo Shen 
